@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "Samples",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ModioUE4Sample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Modio",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1ab22ed2961a4cc19b9151bd072df998"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"MacNoEditor",
+		"WindowsNoEditor"
+	],
+	"EpicSampleNameHash": "2909238034"
+}
