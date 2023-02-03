@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.26",
 	"Category": "Samples",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ModioUE4Sample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Modio",
