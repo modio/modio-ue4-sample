@@ -1,0 +1,23 @@
+++++
+<a href="https://mod.io"><img src="https://static.mod.io/v1/images/branding/modio-color-dark.svg" alt="mod.io" width="360" align="right"/></a>
+++++
+# mod.io Unreal Sample Projects
+
+image:https://img.shields.io/badge/license-MIT-brightgreen.svg[alt="License", link="https://github.com/modio/modio-sdk/blob/master/LICENSE"]
+image:https://img.shields.io/discord/389039439487434752.svg?label=Discord&logo=discord&color=7289DA&labelColor=2C2F33[alt="Discord", link="https://discord.mod.io"]
+image:https://img.shields.io/badge/Unreal-4.26%2B-dea309[alt="Unreal", link="https://www.unrealengine.com"]
+
+Welcome to the mod.io Unreal Engine Samples repository. This repository provides a simple example integration of the mod.io Unreal Engine plugin for Unreal 4.26 and Unreal 4.27 based projects. This sample project is Blueprint-only, demonstrating the core functionality of the mod.io plugin.
+
+== Installation
+
+Its recommended that you do a full git checkout, as the latest version of the mod.io plugin is included as a submodule. 
+
+Once you check out the repository, you can simply launch the project in your choice of engine version (4.26 and 4.27 are supported) and Play In Editor to see the sample in action.
+
+== Known Issues
+
+In the current release of the samples, the sample project cannot be cooked for Unreal Engine 4.27. This issue is not present when using the plugin from the Unreal Engine Marketplace, or in your own Unreal Engine project.
+
+== Other Repositories
+Our aim with https://mod.io[mod.io], is to provide an https://docs.mod.io[open modding API]. You are welcome to https://github.com/modio[view, fork and contribute to our other codebases] in use.
