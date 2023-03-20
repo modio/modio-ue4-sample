@@ -30,7 +30,7 @@ There are 7 actions in total that can be performed using both keyboard and gamep
 
 * *Back*: Return to the game menu. Use the Backspace key on the keyboard, or the Face Button Right (B) on the gamepad.
 * *Perform Action*: Start the game from both mod selection menu and in-game menu, and confirm the card choice in-game. Use the Enter key on the keyboard, or the Face Button Left (X) on the gamepad.
-* *Perform Secondary Action*: Subscribe/Unsubscribe to the focused mod item, and show hints in-game. Use the Spacebar on the keyboard, or the Face Button Top (Y) on the gamepad.
+* *Perform Secondary Action*: Subscribe/Unsubscribe to the focused mod item, and use black card / show hints in-game. Use the Spacebar on the keyboard, or the Face Button Top (Y) on the gamepad.
 
 == Known Issues
 
