@@ -15,6 +15,23 @@ Its recommended that you do a full git checkout, as the latest version of the mo
 
 Once you check out the repository, you can simply launch the project in your choice of engine version (4.26 and 4.27 are supported) and Play In Editor to see the sample in action.
 
+== Actions
+
+There are 7 actions in total that can be performed using both keyboard and gamepad. These actions are used for navigating through the mod items or cards in-game, selecting mods from a list, and performing primary and secondary actions.
+
+=== Navigation actions
+
+* *Move Up*: Focus on the mod items or cards in-game by moving up. Use the up arrow or "W" on the keyboard, or the D-pad Up or Left Thumbstick Up on the gamepad.
+* *Move Down*: Focus on the mod items or cards in-game by moving down. Use the down arrow or "S" on the keyboard, or the D-pad Down or Left Thumbstick Down on the gamepad.
+* *Move Left*: Select the mod on the left in the list and focus on the cards in-game by moving left. Use the left arrow or "A" on the keyboard, or the D-pad Left or Left Thumbstick Left on the gamepad.
+* *Move Right*: Select the mod on the right in the list and focus on the cards in-game by moving right. Use the right arrow or "D" on the keyboard, or the D-pad Right or Left Thumbstick Right on the gamepad.
+
+=== Primary and secondary actions
+
+* *Back*: Return to the game menu. Use the Backspace key on the keyboard, or the Face Button Right (B) on the gamepad.
+* *Perform Action*: Start the game from both mod selection menu and in-game menu, and confirm the card choice in-game. Use the Enter key on the keyboard, or the Face Button Left (X) on the gamepad.
+* *Perform Secondary Action*: Subscribe/Unsubscribe to the focused mod item, and show hints in-game. Use the Spacebar on the keyboard, or the Face Button Top (Y) on the gamepad.
+
 == Known Issues
 
 In the current release of the samples, the sample project cannot be cooked for Unreal Engine 4.27. This issue is not present when using the plugin from the Unreal Engine Marketplace, or in your own Unreal Engine project.
