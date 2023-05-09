@@ -7,7 +7,7 @@ image:https://img.shields.io/badge/license-MIT-brightgreen.svg[alt="License", li
 image:https://img.shields.io/discord/389039439487434752.svg?label=Discord&logo=discord&color=7289DA&labelColor=2C2F33[alt="Discord", link="https://discord.mod.io"]
 image:https://img.shields.io/badge/Unreal-4.26%2B-dea309[alt="Unreal", link="https://www.unrealengine.com"]
 
-Welcome to the mod.io Unreal Engine Samples repository. This repository provides a simple example integration of the mod.io Unreal Engine plugin for Unreal 4.26 and Unreal 4.27 based projects. This sample project is Blueprint-only, demonstrating the core functionality of the mod.io plugin.
+Welcome to the mod.io Unreal Engine Samples repository. This repository provides a simple example integration of the https://github.com/modio/modio-ue[mod.io Unreal Engine plugin] for Unreal 4.26 and Unreal 4.27 based projects. This sample project is Blueprint-only, demonstrating the core functionality of the mod.io plugin.
 
 == Installation
 
